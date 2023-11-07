@@ -9,4 +9,8 @@ body {
 div {
     border: solid 2px grey;
     border-radius:5vh;
+    margin:10vh;
+}
+h1 {
+    text-align:center;
 }
